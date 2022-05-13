@@ -15,6 +15,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Online" 
     address: ""
+venue: "Online"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
